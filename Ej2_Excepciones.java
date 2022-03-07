@@ -42,6 +42,7 @@ public class Excepciones {
 			
 	        
 				reader.close();
+				//Comentario añadido en GitHub
 			//Comentario añadido en GitHub
 		}
 }
